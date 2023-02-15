@@ -2,6 +2,7 @@
 name = "deep-flatten"
 authors = ["Cryptex"]
 description = "Useful utility for deep flattening nested Options."
+license = "MIT"
 version = "0.1.0"
 edition = "2021"
 
