@@ -17,3 +17,5 @@ assert_eq!(flattened, Some(()));
 Result support coming soon.
 
 <sub>I genuinely don't know why you will ever need this but ok</sub>
+
+# thanks to @jay3332 he wrote all code 
